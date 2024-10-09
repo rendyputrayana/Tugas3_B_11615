@@ -52,7 +52,7 @@ st.markdown(
 
 st.markdown("""
     <div class:"center">
-        <img src="https://i.makeagif.com/media/7-08-2015/_rch2o.gif" alt="Welcome Image">  
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOQQ_0TY3839MvYN9zxq0mJusUVF-cN2o0Hg&s" alt="Welcome Image">  
     </div>        
 """, unsafe_allow_html=True)
 
